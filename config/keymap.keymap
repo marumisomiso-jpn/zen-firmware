@@ -36,12 +36,12 @@
             >;
         };
 
-        layer_2 {
+        L2_Tenkey {
             bindings = <
-&kp ESCAPE  &kp N1    &kp N2  &kp N3    &kp N4      &kp N5     &kp RC(PLUS)  &kp ASTERISK  &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &kp DELETE
-&trans      &kp EXCL  &kp AT  &kp HASH  &kp DOLLAR  &kp PRCNT  &kp MINUS     &kp SLASH     &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6  &trans
-&trans      &trans    &trans  &trans    &trans      &trans     &trans        &trans        &kp EQUAL     &kp EQUAL     &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &trans
-&trans      &trans    &trans  &trans    &trans      &trans     &trans        &trans        &kp NUMBER_0  &kp PERIOD    &trans        &trans
+&trans  &trans  &trans  &trans  &trans  &trans  &kp KP_NUMBER_7  &kp KP_NUMBER_8  &kp KP_NUMBER_9  &kp KP_PLUS      &kp KP_ASTERISK  &kp PERCENT
+&trans  &trans  &trans  &trans  &trans  &trans  &kp KP_NUMBER_4  &kp KP_NUMBER_5  &kp KP_NUMBER_6  &kp KP_MINUS     &kp KP_SLASH     &kp DOLLAR
+&trans  &trans  &trans  &trans  &trans  &trans  &trans           &kp KP_EQUAL     &kp KP_NUMBER_1  &kp KP_NUMBER_2  &kp KP_NUMBER_3  &kp PERIOD   &trans  &kp LEFT_PARENTHESIS
+&trans  &trans  &trans  &trans  &trans  &trans  &trans           &trans           &kp NUMBER_0     &trans           &trans           &trans
             >;
         };
 
