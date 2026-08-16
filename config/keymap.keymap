@@ -44,9 +44,9 @@
             >;
         };
 
-        layer_3 {
+        L3_Mouseaction {
             bindings = <
-&trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp FSLH                &kp ASTRK           &kp KP_NUMBER_7          &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans  &trans  &mkp MB4                &kp RS(RG(ASTRK))   &mkp MB5                 &trans  &trans
 &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp RA(RG(LEFT_ARROW))  &kp RG(T)           &kp RA(RG(RIGHT_ARROW))  &trans  &trans
 &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp RG(W)               &kp RC(LEFT_ARROW)  &kp RC(RIGHT_ARROW)      &trans  &trans  &trans  &trans
 &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans                  &trans              &trans                   &trans  &trans
