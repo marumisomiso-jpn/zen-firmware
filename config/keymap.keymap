@@ -38,7 +38,7 @@
 
         L3_Mouseaction {
             bindings = <
-&trans  &trans  &trans  &trans  &trans  &trans  &trans            &mkp MB4                &kp RS(RG(R))       &mkp MB5                 &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans  &kp RG(Q)         &mkp MB4                &kp RS(RG(R))       &mkp MB5                 &trans  &trans
 &trans  &trans  &trans  &trans  &trans  &trans  &kp RC(UP_ARROW)  &kp RA(RG(LEFT_ARROW))  &kp RG(T)           &kp RA(RG(RIGHT_ARROW))  &trans  &trans
 &trans  &trans  &trans  &trans  &trans  &trans  &trans            &kp RG(W)               &kp RC(LEFT_ARROW)  &kp RC(RIGHT_ARROW)      &trans  &trans  &trans  &trans
 &trans  &trans  &trans  &trans  &trans  &trans  &trans            &trans                  &trans              &trans                   &trans  &trans
